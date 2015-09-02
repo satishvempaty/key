@@ -60,6 +60,10 @@ function addElent(e){
 	},rTimer); 
 }
 
+
+
+
+
 function removeElent(e){
 	if(e.src)
 		delete current[e.src];
